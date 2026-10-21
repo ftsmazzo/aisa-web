@@ -1,0 +1,6 @@
+---
+description: Regras do projeto AISA. A fonte única é o AGENTS.md da raiz.
+alwaysApply: true
+---
+
+Siga o arquivo AGENTS.md na raiz do repositório. Ele é a fonte única das regras de arquitetura, segurança, qualidade e fluxo de mudança. Não duplique essas regras neste arquivo.
